@@ -1,0 +1,186 @@
+aioredis==2.0.1
+anyio==3.6.2
+argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
+argon2-cffi-bindings @ file:///C:/ci/argon2-cffi-bindings_1644569878360/work
+asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
+async-timeout==4.0.2
+attrs @ file:///opt/conda/conda-bld/attrs_1642510447205/work
+Authlib @ file:///C:/Windows/TEMP/abs_a6zn2myvea/croots/recipe/authlib_1659988089889/work
+awsebcli==3.20.3
+Babel @ file:///tmp/build/80754af9/babel_1620871417480/work
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+beautifulsoup4 @ file:///C:/ci/beautifulsoup4_1650274792587/work
+bleach @ file:///opt/conda/conda-bld/bleach_1641577558959/work
+botocore==1.23.54
+brotlipy==0.7.0
+cement==2.8.2
+certifi @ file:///C:/b/abs_ac29jvt43w/croot/certifi_1665076682579/work/certifi
+cffi @ file:///C:/Windows/Temp/abs_6808y9x40v/croots/recipe/cffi_1659598653989/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+cleo==1.0.0a4
+click==8.1.3
+colorama==0.4.3
+conda==22.9.0
+conda-package-handling @ file:///C:/b/abs_81m11h_i4r/croots/recipe/conda-package-handling_1663598470202/work
+crashtest==0.3.1
+cryptography @ file:///C:/ci/cryptography_1652101772384/work
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+debugpy @ file:///C:/ci/debugpy_1637073815078/work
+decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
+defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
+dnspython==2.2.1
+entrypoints @ file:///C:/ci/entrypoints_1649926621247/work
+executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
+fastapi==0.88.0
+fastjsonschema @ file:///C:/Users/BUILDE~1/AppData/Local/Temp/abs_ebruxzvd08/croots/recipe/python-fastjsonschema_1661376484940/work
+Flask==2.2.2
+Flask-Cors==3.0.10
+fonttools==4.25.0
+future==0.16.0
+graphdatascience==1.5
+greenlet==1.1.3
+h11==0.14.0
+hiredis==2.1.0
+httpcore==0.16.2
+httptools==0.5.0
+httpx==0.23.1
+idna @ file:///C:/b/abs_bdhbebrioa/croot/idna_1666125572046/work
+importlib-metadata==4.12.0
+importlib-resources @ file:///tmp/build/80754af9/importlib_resources_1625135880749/work
+interchange==2021.0.4
+ipykernel @ file:///C:/b/abs_21ykzkm7y_/croots/recipe/ipykernel_1662361803478/work
+ipython @ file:///C:/ci/ipython_1657652657542/work
+ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+ipython-sql==0.4.1
+ipywidgets @ file:///tmp/build/80754af9/ipywidgets_1634143127070/work
+itsdangerous==2.1.2
+jedi @ file:///C:/ci/jedi_1644315425835/work
+Jinja2 @ file:///C:/b/abs_7cdis66kl9/croot/jinja2_1666908141852/work
+jmespath==0.10.0
+json5 @ file:///tmp/build/80754af9/json5_1624432770122/work
+jsonschema @ file:///C:/b/abs_59eyhnbyej/croots/recipe/jsonschema_1663375476535/work
+jupyter @ file:///C:/Windows/TEMP/abs_56xfdi__li/croots/recipe/jupyter_1659349053177/work
+jupyter-console @ file:///opt/conda/conda-bld/jupyter_console_1647002188872/work
+jupyter-core @ file:///C:/ci/jupyter_core_1651656285178/work
+jupyter-server @ file:///C:/Windows/TEMP/abs_d3c42c59-765d-4f9b-9fa3-ad5b1369485611i_yual/croots/recipe/jupyter_server_1658754493238/work
+jupyter_client @ file:///C:/b/abs_8fbm7986b_/croots/recipe/jupyter_client_1662504374117/work
+jupyterlab @ file:///C:/ci/jupyterlab_1658909327110/work
+jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
+jupyterlab-server @ file:///C:/ci/jupyterlab_server_1650271783893/work
+jupyterlab-widgets @ file:///tmp/build/80754af9/jupyterlab_widgets_1609884341231/work
+kiwisolver @ file:///C:/ci/kiwisolver_1653292408254/work
+MarkupSafe @ file:///C:/ci/markupsafe_1654489871526/work
+matplotlib @ file:///C:/ci/matplotlib-suite_1660169687702/work
+matplotlib-inline @ file:///C:/ci/matplotlib-inline_1661934035815/work
+menuinst @ file:///C:/Users/BUILDE~1/AppData/Local/Temp/abs_455sf5o0ct/croots/recipe/menuinst_1661805970842/work
+mistune==0.8.4
+mkl-fft==1.3.1
+mkl-random @ file:///C:/ci/mkl_random_1626186184278/work
+mkl-service==2.4.0
+monotonic==1.6
+multimethod==1.9
+munkres==1.1.4
+mysql-connector-python==8.0.31
+nbclassic @ file:///opt/conda/conda-bld/nbclassic_1644943264176/work
+nbclient @ file:///C:/ci/nbclient_1650290386732/work
+nbconvert @ file:///C:/ci/nbconvert_1649741005454/work
+nbformat @ file:///C:/b/abs_1dw90o2uqb/croots/recipe/nbformat_1663744957967/work
+neo4j==5.3.0
+nest-asyncio @ file:///C:/ci/nest-asyncio_1649829929372/work
+node==1.0
+notebook @ file:///C:/Windows/TEMP/abs_79abr1_60s/croots/recipe/notebook_1659083661851/work
+npm==0.1.1
+numpy==1.23.3
+odict==1.9.0
+optional-django==0.1.0
+packaging @ file:///tmp/build/80754af9/packaging_1637314298585/work
+pandas==1.4.4
+pandocfilters @ file:///opt/conda/conda-bld/pandocfilters_1643405455980/work
+pansi==2020.7.3
+parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
+pathspec==0.9.0
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+Pillow==9.2.0
+pkgutil_resolve_name @ file:///C:/Users/BUILDE~1/AppData/Local/Temp/abs_81wm45v3kb/croots/recipe/pkgutil-resolve-name_1661463352381/work
+plumber==1.7
+ply==3.11
+pptree==3.1
+prettytable==0.7.2
+prometheus-client @ file:///C:/Windows/TEMP/abs_ab9nx8qb08/croots/recipe/prometheus_client_1659455104602/work
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1633440160888/work
+protobuf==3.20.1
+psutil @ file:///C:/Windows/Temp/abs_b2c2fd7f-9fd5-4756-95ea-8aed74d0039flsd9qufz/croots/recipe/psutil_1656431277748/work
+pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
+py2neo==2021.2.3
+pyarrow==10.0.1
+pycosat==0.6.3
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pydantic==1.10.2
+Pygments @ file:///opt/conda/conda-bld/pygments_1644249106324/work
+pylev==1.4.0
+pymongo==4.3.3
+PyMySQL==1.0.2
+pyOpenSSL @ file:///opt/conda/conda-bld/pyopenssl_1643788558760/work
+pyparsing @ file:///C:/Users/BUILDE~1/AppData/Local/Temp/abs_7f_7lba6rl/croots/recipe/pyparsing_1661452540662/work
+pypiwin32==223
+PyQt5==5.15.7
+PyQt5-sip @ file:///C:/Windows/Temp/abs_d7gmd2jg8i/croots/recipe/pyqt-split_1659273064801/work/pyqt_sip
+pyrsistent @ file:///C:/ci/pyrsistent_1636111468851/work
+PySocks @ file:///C:/ci/pysocks_1605287845585/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+python-dotenv==0.19.2
+python-multipart==0.0.5
+python-ulid==1.1.0
+pytz==2022.2.1
+pywin32==302
+pywinpty @ file:///C:/ci_310/pywinpty_1644230983541/work/target/wheels/pywinpty-2.0.2-cp38-none-win_amd64.whl
+PyYAML==5.4.1
+pyzmq @ file:///C:/ci/pyzmq_1657616005830/work
+qtconsole @ file:///C:/ci/qtconsole_1662018992304/work
+QtPy @ file:///C:/ci/qtpy_1662015036641/work
+redis==4.4.0
+redis-om==0.0.20
+requests==2.26.0
+rfc3986==1.5.0
+ruamel-yaml-conda @ file:///C:/ci/ruamel_yaml_1616016967756/work
+semantic-version==2.8.5
+Send2Trash @ file:///tmp/build/80754af9/send2trash_1632406701022/work
+sip @ file:///C:/Windows/Temp/abs_b8fxd17m2u/croots/recipe/sip_1659012372737/work
+six==1.14.0
+sniffio==1.3.0
+soupsieve @ file:///tmp/build/80754af9/soupsieve_1636706018808/work
+SQLAlchemy==1.4.45
+sqlparse==0.4.2
+stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
+starlette==0.22.0
+termcolor==1.1.0
+terminado @ file:///C:/ci/terminado_1644322757089/work
+testpath @ file:///C:/Windows/TEMP/abs_23c7fa33-cbb9-46dc-b7c5-590c38e2de3d4bmbngal/croots/recipe/testpath_1655908553202/work
+toml @ file:///tmp/build/80754af9/toml_1616166611790/work
+toolz @ file:///tmp/build/80754af9/toolz_1636545406491/work
+tornado @ file:///C:/ci/tornado_1662476991259/work
+tqdm @ file:///C:/b/abs_0axbz66qik/croots/recipe/tqdm_1664392691071/work
+traitlets @ file:///tmp/build/80754af9/traitlets_1636710298902/work
+types-redis==4.3.21.6
+types-six==1.16.21.4
+typing_extensions==4.4.0
+urllib3 @ file:///C:/Windows/TEMP/abs_65ynz4fdmi/croots/recipe/urllib3_1659110473919/work
+uvicorn==0.20.0
+watchfiles==0.18.1
+wcwidth==0.1.9
+webencodings==0.5.1
+websocket-client @ file:///C:/ci/websocket-client_1614804473297/work
+websockets==10.4
+Werkzeug==2.2.2
+widgetsnbextension @ file:///C:/ci/widgetsnbextension_1645009558218/work
+win-inet-pton @ file:///C:/ci/win_inet_pton_1605306167264/work
+wincertstore==0.2
+zipp @ file:///C:/ci/zipp_1652274073489/work
+zope.component==5.0.1
+zope.deferredimport==4.4
+zope.deprecation==4.4.0
+zope.event==4.5.0
+zope.hookable==5.2
+zope.interface==5.4.0
+zope.lifecycleevent==4.4
+zope.proxy==4.5.1
